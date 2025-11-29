@@ -1,0 +1,5 @@
+{
+  "name": "InkProfit - Calculadora para Tatuadores",
+  "description": "Uma ferramenta profissional de precificação para tatuadores calcularem custos, margens de lucro e valores sugeridos, com análise inteligente via Gemini AI.",
+  "requestFramePermissions": []
+}
